@@ -33,3 +33,14 @@ node 之间的通信可以通过 http transport 和 http Peer。
 ## reference
 
 https://github.com/peterbourgon/raft
+
+https://en.wikipedia.org/wiki/Raft_(algorithm)
+
+
+
+## Usage
+
+分布式存储
+
+https://github.com/siddontang/rust-raftkv
+
